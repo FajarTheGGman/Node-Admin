@@ -1,4 +1,6 @@
 # Node-Admin
+![](https://img.shields.io/badge/Version-1.0-red) ![](https://img.shields.io/badge/Nodejs-v10.16.0-lime) 
+
 #Simply Login system written in nodejs but just in one script :)
 
 # Screenshots 
