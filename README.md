@@ -3,4 +3,4 @@
 
 # Screenshots 
 
-![alt-text]("https://github.com/FajarTheGGman/Node-Admin/blob/master/screenshots/x.PNG")
+![alt-text](https://github.com/FajarTheGGman/Node-Admin/blob/master/screenshots/x.PNG)
