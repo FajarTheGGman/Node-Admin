@@ -30,3 +30,6 @@ Linux
 <pre>
 [!] This tools is free recode so you can modify the program whatever you want i hope you enjoy the program :)
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
